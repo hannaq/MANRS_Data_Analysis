@@ -23,7 +23,7 @@ To look at the most recent conformance levels of MANRS networks, you can run the
 ## Dataset
 The datasets used in the paper can be downloaded from sources below:
 - [MANRS Network Operators Program participants list](https://www.manrs.org/netops/participants/)
-- [MANRS Network Operators Program participants list](https://www.manrs.org/cdn-cloud-providers/participants/)
+- [MANRS CDN Program participants list](https://www.manrs.org/cdn-cloud-providers/participants/)
 - [Internet Health Report ROV](https://ihr.iijlab.net/ihr/en-us/rov) and [Data Archive](https://ihr-archive.iijlab.net/ihr/rov/)
 - [CAIDA AS Relationships Dataset](https://www.caida.org/catalog/datasets/as-relationships/)
 - [CAIDA AS Organizations Dataset](https://www.caida.org/catalog/datasets/as-organizations/)
